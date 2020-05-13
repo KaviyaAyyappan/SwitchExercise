@@ -1,0 +1,6 @@
+C:\Users\kaviya\source\repos\SwitchExercise\SwitchExercise\bin\Debug\SwitchExercise.exe.config
+C:\Users\kaviya\source\repos\SwitchExercise\SwitchExercise\bin\Debug\SwitchExercise.exe
+C:\Users\kaviya\source\repos\SwitchExercise\SwitchExercise\bin\Debug\SwitchExercise.pdb
+C:\Users\kaviya\source\repos\SwitchExercise\SwitchExercise\obj\Debug\SwitchExercise1.csproj.CoreCompileInputs.cache
+C:\Users\kaviya\source\repos\SwitchExercise\SwitchExercise\obj\Debug\SwitchExercise.exe
+C:\Users\kaviya\source\repos\SwitchExercise\SwitchExercise\obj\Debug\SwitchExercise.pdb
